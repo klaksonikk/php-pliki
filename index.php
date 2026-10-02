@@ -40,13 +40,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dziennik ocen</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 600px; margin: 30px auto; padding: 0 15px; }
-        label { display: block; margin-top: 12px; font-weight: bold; }
-        input[type="text"], select { width: 100%; padding: 6px; box-sizing: border-box; }
-        input[type="submit"] { margin-top: 15px; padding: 8px 16px; cursor: pointer; }
-        .blad { color: #b00020; margin-top: 10px; }
-    </style>
 </head>
 <body>
 
